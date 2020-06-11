@@ -4,10 +4,10 @@ Plots of electrons and proton intensities from the STEREO IMPACT High Energy Tel
 
 <div class="row">
   <div class="column">
-    <img src="/plots/AeH11Feb.15mSEPlabel.png" width="400"/>
+    <img src="/plots/AeH11Feb.15mSEPlabel.png" width="300"/>
   </div>
   <div class="column">
-    <img src="/plots/AeH11Feb.15merrorbars.png" width="400"/>
+    <img src="/plots/AeH11Feb.15merrorbars.png" width="300"/>
   </div
 </div>
 
