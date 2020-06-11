@@ -72,4 +72,59 @@ Plots of electrons and proton intensities from the STEREO IMPACT High Energy Tel
   <img src="/plots/AeH12Nov.15mSEPlabel.png" width="400" />
   <img src="/plots/AeH12Nov.15merrorbars.png" width="400" /> 
 </p>
+    
+<p float="left">
+  <img src="/plots/AeH13Mar.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Mar.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Apr.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Apr.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13May.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13May.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Jun.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Jun.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Aug.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Aug.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Oct.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Oct.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Nov.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Nov.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH13Dec.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH13Dec.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH14Jan.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH14Jan.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH14Feb.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH14Feb.15merrorbars.png" width="400" /> 
+</p>
+    
+<p float="left">
+  <img src="/plots/AeH14Jun.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH14Jun.15merrorbars.png" width="400" /> 
+</p>
   
