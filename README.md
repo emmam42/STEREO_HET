@@ -2,14 +2,12 @@
 
 Plots of electrons and proton intensities from the STEREO IMPACT High Energy Telescope during known SEP events (orange lines) seen in lower energies in Cohen et al. 2017.
 
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Feb.15mSEPlabel.png" width="300"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Feb.15merrorbars.png" width="300"/>
-  </div
-</div>
+
+<p float="left">
+  <img src="/plots/AeH11Feb.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Feb.15merrorbars.png" width="400" /> 
+</p>
+
 
 <div class="row">
   <div class="column">
