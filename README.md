@@ -7,50 +7,29 @@ Plots of electrons and proton intensities from the STEREO IMPACT High Energy Tel
   <img src="/plots/AeH11Feb.15mSEPlabel.png" width="400" />
   <img src="/plots/AeH11Feb.15merrorbars.png" width="400" /> 
 </p>
+ 
+<p float="left">
+  <img src="/plots/AeH11Mar.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Mar.15merrorbars.png" width="400" /> 
+</p>
 
+<p float="left">
+  <img src="/plots/AeH11Aug.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Aug.15merrorbars.png" width="400" /> 
+</p>
+ 
+<p float="left">
+  <img src="/plots/AeH11Sep.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Sep.15merrorbars.png" width="400" /> 
+</p>
 
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Mar.15mSEPlabel.png" width="450"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Mar.15merrorbars.png" width="450"/>
-  </div
-</div>
-    
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Aug.15mSEPlabel.png" width="450"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Aug.15merrorbars.png" width="450"/>
-  </div
-</div>
-    
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Sep.15mSEPlabel.png" width="450"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Sep.15merrorbars.png" width="450"/>
-  </div
-</div>    
-    
-    
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Oct.15mSEPlabel.png" width="450"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Oct.15merrorbars.png" width="450"/>
-  </div
-</div>
-    
-<div class="row">
-  <div class="column">
-    <img src="/plots/AeH11Nov.15mSEPlabel.png" width="450"/>
-  </div>
-  <div class="column">
-    <img src="/plots/AeH11Nov.15merrorbars.png" width="450"/>
-  </div
-</div>
+<p float="left">
+  <img src="/plots/AeH11Oct.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Oct.15merrorbars.png" width="400" /> 
+</p>
+ 
+<p float="left">
+  <img src="/plots/AeH11Nov.15mSEPlabel.png" width="400" />
+  <img src="/plots/AeH11Nov.15merrorbars.png" width="400" /> 
+</p>
+  
