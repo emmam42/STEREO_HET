@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[65]:
-
 
 #imports
 import numpy as np
@@ -12,8 +7,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from time import strptime
 
-
-# In[66]:
 
 
 #ASCII reading in data 
@@ -30,9 +23,6 @@ f = open(filename, 'r')
 
 #all data 
 data_in = pd.read_csv(filename, header=22, delimiter='\s+')
-
-
-# In[67]:
 
 
 #creating variables for each data collumn
@@ -139,8 +129,6 @@ spl = np.sqrt((sp1)**2+(sp2)**2+(sp3)**2+(sp4)**2)/10.2
 sph = np.sqrt((sp5)**2+(sp6)**2+(sp7)**2+(sp8)**2+(sp9)**2)/16.7
 
 
-# In[68]:
-
 
 #set up figure 
 plt.figure(figsize=(9, 6), dpi= 80, facecolor='w', edgecolor='k')
@@ -161,7 +149,9 @@ plt.title("STEREO IMPACT HET Electron and Proton Intensity (%s averages)" % intt
 plt.xlabel("Time",fontsize=18)
 plt.ylabel("Intensity (cm2-sr-sec-MeV)",fontsize=18)
 
-plt.show()
+
+plt.savefig('%SEPplot.png'%filename)
+
 
 #Figure with error bars ########New figure
 
@@ -185,7 +175,8 @@ plt.errorbar(times,(p1+p2+p3+p4)/10.2, yerr=spl, color='c',ls = 'none')
 plt.errorbar(times,(p5+p6+p7+p8+p9)/16.7, yerr=sph, color='g',ls = 'none')
 
 
-plt.show()
+
+plt.savefig('%serrorbars.png'%filename)
 
 
 # In[ ]:
